@@ -1,0 +1,1 @@
+This is a file specially contained in branch1.
